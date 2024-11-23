@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Array
 |  |
@@ -23,8 +24,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
