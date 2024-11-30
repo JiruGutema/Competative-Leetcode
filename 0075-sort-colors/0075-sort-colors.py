@@ -3,4 +3,11 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        nums.sort()
+        for i in range(len(nums)):
+            minIndex = i
+            for j in range(i, len(nums)):
+                if nums[j] < nums[minIndex]:
+                    minIndex = j
+            
+            nums[i], nums[minIndex] = nums[minIndex], nums[i]
+        
