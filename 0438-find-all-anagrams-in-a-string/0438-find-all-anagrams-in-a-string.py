@@ -12,17 +12,28 @@ class Solution:
         #     start += 1
         #     end += 1
         # return ans
-        
+
+
         result = []
         target = collections.Counter(p)
-        window = collections.Counter(s[:len(p) - 1])
-        for i in range(len(p) - 1, len(s)):
+        window = collections.Counter(s[:len(p)])
+        if target == window:
+            result.append(0)
+        left = 0
+
+        for i in range(len(p), len(s)):
+
             curr_char = s[i]
             window[curr_char] += 1
 
+            char = s[left]
+            window[char] -= 1
+
+            if window[char] == 0:
+                del window[char]
+
             if window == target:
-                result.append(i - len(p) + 1)
-            window[s[i - len(p) + 1]] -= 1
-            if window[s[i - len(p) + 1]] == 0:
-                del window[s[i - len(p) + 1]]
+                result.append(left+1)
+            left += 1
+            
         return result
