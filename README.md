@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0169-majority-element) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0525-contiguous-array) |
 | [1217-relative-sort-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1217-relative-sort-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0179-largest-number) |
 | [0388-longest-absolute-file-path](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0388-longest-absolute-file-path) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
