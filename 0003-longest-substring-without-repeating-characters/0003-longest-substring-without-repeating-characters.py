@@ -3,10 +3,11 @@ class Solution:
         seen = {}
         start = 0
         max_len = 0
+
         for end in range(len(s)):
-            curr_char = s[end]
-            if curr_char in seen and seen[curr_char] >= start:
-                start = seen[curr_char] + 1
-            seen[curr_char] = end
-            max_len = max(max_len, end - start + 1)
+            char = s[end]
+            if char in seen and seen[char] >= start:
+                start = seen[char]+1
+            seen[char] = end
+            max_len = max(max_len, end-start+1)
         return max_len
