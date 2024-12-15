@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0724-find-pivot-index) |
 | [1009-pancake-sorting](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1009-pancake-sorting) |
 | [1217-relative-sort-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1217-relative-sort-array) |
+| [1603-running-sum-of-1d-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Design
 |  |
 | ------- |
