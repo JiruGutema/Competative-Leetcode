@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1217-relative-sort-array) |
 | [1603-running-sum-of-1d-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3644-minimum-positive-sum-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0878-shifting-letters) |
 | [1603-running-sum-of-1d-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [3644-minimum-positive-sum-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Design
 |  |
 | ------- |
