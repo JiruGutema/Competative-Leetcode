@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Two Pointers
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Array
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0525-contiguous-array) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0525-contiguous-array) |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1009-pancake-sorting](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1009-pancake-sorting) |
 | [1217-relative-sort-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1217-relative-sort-array) |
@@ -219,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
