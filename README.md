@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0220-contains-duplicate-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0220-contains-duplicate-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0424-longest-repeating-character-replacement](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0179-largest-number) |
+| [0220-contains-duplicate-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1009-pancake-sorting](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1009-pancake-sorting) |
 | [1217-relative-sort-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1217-relative-sort-array) |
@@ -208,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
