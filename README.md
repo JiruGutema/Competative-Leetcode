@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Queue
