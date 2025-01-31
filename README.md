@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1217-relative-sort-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2058-concatenation-of-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1642-water-bottles) |
+| [2058-concatenation-of-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
