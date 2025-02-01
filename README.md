@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
