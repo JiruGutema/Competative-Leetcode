@@ -5,10 +5,9 @@ class Solution:
         for nums in ranges:
             for num in range(nums[0], nums[1]+1):
                 tracker.add(num)
-        if left not in tracker or right not in tracker:
-            return False
         for i in range(left, right+1):
             if i not in tracker:
                 return False
             
         return True
+        
