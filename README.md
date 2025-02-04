@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0525-contiguous-array) |
 | [0609-find-duplicate-file-in-system](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0609-find-duplicate-file-in-system) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0455-assign-cookies) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1217-relative-sort-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1217-relative-sort-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## String
 |  |
@@ -290,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Monotonic Stack
@@ -318,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Ordered Set
 |  |
 | ------- |
@@ -357,5 +364,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
