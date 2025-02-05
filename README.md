@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0455-assign-cookies) |
+| [0500-keyboard-row](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0525-contiguous-array) |
 | [0609-find-duplicate-file-in-system](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0525-contiguous-array) |
 | [0609-find-duplicate-file-in-system](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0816-design-hashset](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0816-design-hashset) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0424-longest-repeating-character-replacement](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0500-keyboard-row](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0500-keyboard-row) |
 | [0609-find-duplicate-file-in-system](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0812-rotate-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0878-shifting-letters) |
