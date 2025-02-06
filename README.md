@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0816-design-hashset](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0816-design-hashset) |
 | [0878-shifting-letters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0878-shifting-letters) |
+| [0898-transpose-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0898-transpose-matrix) |
 | [1009-pancake-sorting](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1009-pancake-sorting) |
 | [1217-relative-sort-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1217-relative-sort-array) |
 | [1364-tuple-with-same-product](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0898-transpose-matrix) |
 | [1449-print-words-vertically](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2058-concatenation-of-array) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0898-transpose-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Number Theory
 |  |
