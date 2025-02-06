@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1009-pancake-sorting) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2639-separate-the-digits-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3651-transformed-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3651-transformed-array) |
