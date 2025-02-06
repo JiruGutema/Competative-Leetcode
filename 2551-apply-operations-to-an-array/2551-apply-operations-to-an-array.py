@@ -1,14 +1,22 @@
 class Solution:
     def applyOperations(self, nums: List[int]) -> List[int]:
-        arr = []
+
         for i in range(len(nums) - 1):
             if nums[i] == nums[i + 1]:
                 nums[i] *= 2
                 nums[i + 1] = 0
                 
-        for num in nums:
-            if num!=0:
-                arr.append(num)
-        for i in range(len(nums)-len(arr)):
-            arr.append(0)
-        return arr
+        non_zero_index = 0
+
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                nums[non_zero_index] = nums[i]
+                non_zero_index += 1
+
+        for i in range(non_zero_index, len(nums)):
+            nums[i] = 0
+
+        return nums
+
+
+
