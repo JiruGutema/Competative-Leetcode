@@ -1,6 +1,6 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hashMap = {}
+        hashMap = defaultdict(list)
         ans = []
 
         for i in strs:
