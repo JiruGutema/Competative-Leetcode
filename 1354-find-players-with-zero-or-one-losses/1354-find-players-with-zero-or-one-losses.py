@@ -7,6 +7,7 @@ class Solution:
         for match in matches:
             winner.append(match[0])
             loser.append(match[1])
+            
         winner = Counter(winner)
         loser = Counter(loser)
         win = []
@@ -21,6 +22,5 @@ class Solution:
                 lose.append(k)
         win.sort()
         lose.sort()
-        print(win)
         return [win, lose]
         
