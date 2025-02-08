@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2551-apply-operations-to-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2639-separate-the-digits-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0898-transpose-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Number Theory
 |  |
