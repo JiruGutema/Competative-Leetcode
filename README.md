@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0455-assign-cookies) |
+| [0498-diagonal-traverse](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0898-transpose-matrix) |
 | [1449-print-words-vertically](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1642-water-bottles) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0898-transpose-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
