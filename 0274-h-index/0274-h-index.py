@@ -5,7 +5,6 @@ class Solution:
         citations.sort()
 
         for i in range(n):
-            if citations[i] != 0:
-                temp = min(citations[i], n-i)
-                ans = max(temp, ans)
+            temp = min(citations[i], n-i)
+            ans = max(temp, ans)
         return ans
