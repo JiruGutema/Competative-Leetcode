@@ -1,15 +1,11 @@
-from typing import List
-
 class Solution:
     def largestNumber(self, nums: List[int]) -> str:
-        # Convert all numbers to strings
-        nums_str = list(map(str, nums))
-        
-        # Custom sort: compare based on concatenated results
-        nums_str.sort(key=lambda x: x*10, reverse=True)
-        
-        # Join the sorted strings
-        largest_num = ''.join(nums_str)
-        
-        # Edge case: if the largest number is '0', return '0'
-        return largest_num if largest_num[0] != '0' else '0'
+        nums = [str(i) for i in nums]
+
+        def compare(num1, num2):
+            if num1+num2 > num2+num1:
+                return -1
+            else:
+                return 1
+        nums = sorted(nums, key=cmp_to_key(compare))
+        return str(int("".join(nums)))
