@@ -3,20 +3,12 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        i = 0
-        j = 0
-        
-        while j < len(nums) and i < len(nums):
-            while i < len(nums) and nums[i] != 0:
-                i += 1
-            j = i + 1
-            while j < len(nums) and nums[j] == 0:
-                j += 1
-            if j < len(nums): 
-                nums[i], nums[j] = nums[j], nums[i]
-            
-            
+        s, p = 0, 0
 
-                  
-        
+        while s < len(nums) and p < len(nums):
+            if nums[s] != 0:
+                nums[p], nums[s] = nums[s], nums[p]
+                p += 1
+            s += 1
+
         
