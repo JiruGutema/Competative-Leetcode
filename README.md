@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1642-water-bottles](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1642-water-bottles) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2491-smallest-even-multiple](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1651-shuffle-string) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1009-pancake-sorting](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1009-pancake-sorting) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2117-find-original-array-from-doubled-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -468,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
