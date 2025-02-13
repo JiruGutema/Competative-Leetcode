@@ -1,21 +1,16 @@
-from typing import List
-
 class Solution:
     def dividePlayers(self, skill: List[int]) -> int:
         skill.sort()
-        ans = []
-        
-        chemistry = 0
+        ans = 0
         i = 0
-        j = len(skill)-1
-        product = skill[i]+skill[j]
-        while i <= j:
-            chemistry += skill[i]*skill[j]
-            
-            if skill[i]+skill[j] != product:
+        chemistry = skill[0]+skill[-1]
+        j = len(skill) -1
+        while i < j:
+            temp = (skill[j]+skill[i])
+            if temp == chemistry:
+                ans += (skill[j]*skill[i])
+            else:
                 return -1
-            product = skill[i]+skill[j]
-            i+= 1
+            i += 1
             j -= 1
-
-        return chemistry
+        return ans
