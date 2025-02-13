@@ -5,4 +5,7 @@ class Solution:
             for j in range(n-i-1):
                 if score[j][k] < score[j+1][k]:
                     score[j],score[j+1] = score[j+1],score[j]
-        return (score)
+        # return (score)
+        # list comprehension
+
+        return sorted(score, key=lambda row: row[k], reverse=True)
