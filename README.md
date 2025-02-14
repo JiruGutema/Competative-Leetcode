@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0424-longest-repeating-character-replacement](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0344-reverse-string) |
