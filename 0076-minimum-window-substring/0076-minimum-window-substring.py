@@ -1,7 +1,9 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
+        # failed
+
+
         # ans = ""
-  
         
         # if len(s) < len(t):
         #     return ans
@@ -26,6 +28,8 @@ class Solution:
                         
         # return ans
 
+        # doesn't make sense
+
         # dictionary = {}
         # count= Counter(t)
         # i = 0
@@ -49,6 +53,8 @@ class Solution:
         #     j += 1
         # return s[index[0]:index[1]-1]
 
+        # worked
+        
         t = Counter(t)
 
         n = len(s)
@@ -67,7 +73,7 @@ class Solution:
                     if Window[s[left]] == 0:
                         del Window[s[left]]
                 left += 1
-                
+
         if ans[1] == n:
             return ""
         return(s[ans[0]:ans[1]+1])
