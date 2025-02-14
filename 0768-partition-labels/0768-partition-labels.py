@@ -35,9 +35,10 @@ class Solution:
 
         for index , char in enumerate(s):
             right = max(right, last_occurence[char])
-            if right == index:
+            while right == index:
                 ans.append(right-left+1)
                 left = right + 1
+                break
         return ans
 
 
