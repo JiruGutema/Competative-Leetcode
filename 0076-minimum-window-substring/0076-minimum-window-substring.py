@@ -10,14 +10,12 @@ class Solution:
             Window[s[right]] += 1
             
             while Window >= t:
-    
                 if (right-left) <= (ans[1] - ans[0]):
                     ans[0] = left
                     ans[1] = right
-                if s[left] in Window:
-                    Window[s[left]] -= 1
-                    if Window[s[left]] == 0:
-                        del Window[s[left]]
+                Window[s[left]] -= 1
+                if Window[s[left]] == 0:
+                    del Window[s[left]]
                 left += 1
 
         if ans[1] == n:
