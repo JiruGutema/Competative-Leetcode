@@ -1,22 +1,36 @@
 class Solution:
     def equalFrequency(self, word: str) -> bool:
         count = Counter(word)
-        val = list(count.values())
+        val = Counter(count.values())
 
-        
-        for i in list(count.keys()):
-            count[i] -= 1
-            print("before",count )
-            if count[i] == 0:
-                del count[i]
-                print("middle",count )
-            if len(set(count.values())) == 1:
+
+        if len(val) > 2:
+            return False
+
+        elif len(val) == 2:
+
+            max_number = max(val.keys())
+            if val[1] == 1:
                 return True
-            count[i] += 1
-            print("after",count )
-            print()
 
-        return False
+            if max_number - min(val.keys()) != 1:
+                return False
+
+            elif val[max_number] != 1:
+                return False
+            
+            else:
+                return True
+
+        elif len(val) == 1:
+            key = list(val.keys())[0]
+
+            return True if key == 1 or val[key] == 1 else False
+    
+        
+
+
+
 
         
 
