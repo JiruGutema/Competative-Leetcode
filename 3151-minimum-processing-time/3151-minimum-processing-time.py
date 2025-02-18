@@ -7,7 +7,7 @@ class Solution:
         j = 0
         res = 0
 
-        while i < len(tasks):
+        while j < len(processorTime):
             curr = processorTime[j]+tasks[i]
             res = max(res, curr)
             j += 1
