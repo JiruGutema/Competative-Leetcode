@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0948-sort-an-array) |
 | [1009-pancake-sorting](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1009-pancake-sorting) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1217-relative-sort-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0878-shifting-letters) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0816-design-hashset) |
 | [0829-subdomain-visit-count](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0829-subdomain-visit-count) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1217-relative-sort-array) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
