@@ -1,4 +1,4 @@
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
+
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         # prefix = [0] * (len(nums) + 1)
@@ -14,15 +14,19 @@ class Solution:
         #             res = prefix[j + 1] - prefix[i]
 
         # return res
-        
-        cur_sum = 0
-        max_sum = nums[0]
-        for ele in nums:
-            if ele + cur_sum < ele:
-                cur_sum = ele
-            else:
-                cur_sum = cur_sum + ele
-            max_sum = max(max_sum, cur_sum)
-        return max_sum
+
+        prefix = [0] * (len(nums) + 1)
+
+        for i in range(len(nums)):
+            prefix[i + 1] = prefix[i] + nums[i]
+
+        res = float('-inf')  
+        min_prefix = prefix[0] 
+
+        for j in range(1, len(nums) + 1):
+            res = max(res, prefix[j] - min_prefix)  
+            min_prefix = min(min_prefix, prefix[j]) 
+
+        return res
 
 
