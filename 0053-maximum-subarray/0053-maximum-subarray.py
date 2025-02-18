@@ -14,17 +14,19 @@ class Solution:
         #             res = prefix[j + 1] - prefix[i]
 
         # return res
+        
+        prefix = [0] * (len(nums) + 1)
 
-        from typing import List
+        for i in range(len(nums)):
+            prefix[i + 1] = prefix[i] + nums[i]
 
-        min_prefix = 0 
-        max_sum = float('-inf')
-        current_prefix = 0 
+        res = float('-inf')  
+        min_prefix = prefix[0] 
 
-        for num in nums:
-            current_prefix += num
-            max_sum = max(max_sum, current_prefix - min_prefix)
-            min_prefix = min(min_prefix, current_prefix)
+        for j in range(1, len(nums) + 1):
+            res = max(res, prefix[j] - min_prefix)  
+            min_prefix = min(min_prefix, prefix[j]) 
 
-        return max_sum
+        return res
+
 
