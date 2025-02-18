@@ -1,4 +1,4 @@
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
+
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         # prefix = [0] * (len(nums) + 1)
