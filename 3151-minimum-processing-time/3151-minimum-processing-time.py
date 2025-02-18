@@ -12,5 +12,6 @@ class Solution:
             res = max(res, curr)
             j += 1
             i += 4
+            
         return res
 
