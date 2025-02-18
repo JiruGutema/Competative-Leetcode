@@ -12,7 +12,7 @@ class Solution:
         for i in range(len(nums)):
             curr_element = nums[i] - k
             
-            if curr_element in dictionary.keys():
+            if curr_element in dictionary:
                 count += dictionary[curr_element]
             dictionary[nums[i]] += 1
             
