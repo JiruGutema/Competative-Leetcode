@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0816-design-hashset](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0816-design-hashset) |
+| [0838-design-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0838-design-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0816-design-hashset](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0816-design-hashset) |
+| [0838-design-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
