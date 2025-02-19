@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0878-shifting-letters) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1449-print-words-vertically](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1449-print-words-vertically) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1797-goal-parser-interpretation) |
