@@ -15,6 +15,5 @@ class Solution:
             else:
                 zeros += 1
 
-
             ans = max(zeros + ones, ans)
         return ans 
