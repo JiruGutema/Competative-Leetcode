@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0075-sort-colors) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
