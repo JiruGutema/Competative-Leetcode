@@ -11,12 +11,10 @@ class Solution:
         :rtype: void Do not return anything, modify node in-place instead.
         """
 
-        curr = node
-        currNxt = curr.next
-        while currNxt:
-            curr.val = currNxt.val
-            prev = curr
-            curr = currNxt
-            currNxt = curr.next
-
+        prev = node
+        while node.next:
+            node.val = node.next.val
+            prev = node
+            node = node.next
+            
         prev.next = None
