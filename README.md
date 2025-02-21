@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0724-find-pivot-index) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0816-design-hashset](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0838-design-linked-list) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0054-spiral-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0898-transpose-matrix) |
