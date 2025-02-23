@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0948-sort-an-array) |
 | [1009-pancake-sorting](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1044-find-common-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1184-car-pooling](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1184-car-pooling) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0816-design-hashset) |
 | [0829-subdomain-visit-count](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0829-subdomain-visit-count) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1044-find-common-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1217-relative-sort-array) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-masking-personal-information](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0858-masking-personal-information) |
 | [0878-shifting-letters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0878-shifting-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1044-find-common-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1449-print-words-vertically](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1449-print-words-vertically) |
