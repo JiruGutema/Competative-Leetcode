@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1961-maximum-ice-cream-bars](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Linked List
