@@ -1,12 +1,12 @@
 class Solution:
     def maxAbsoluteSum(self, nums: List[int]) -> int:
-        max_sum , min_sum= float("-inf") , float("inf")
-        curr_sum1 = curr_sum2 = 0
+        m1 , m2= float("-inf") , float("inf")
+        s1 = s2 = 0
         for num in nums:
-            curr_sum1 = max(num, curr_sum1+num)
-            max_sum = max(curr_sum1, max_sum)
-            curr_sum2 = min(num, curr_sum2+num)
-            min_sum = min(curr_sum2, min_sum)
-        return max(abs(min_sum), max_sum)
+            s1 = max(num, s1+num)
+            m1 = max(s1, m1)
+            s2 = min(num, s2+num)
+            m2 = min(s2, m2)
+        return max(abs(m2), m1)
         
         
