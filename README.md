@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0388-longest-absolute-file-path](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0388-longest-absolute-file-path) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Depth-First Search
