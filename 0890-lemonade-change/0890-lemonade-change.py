@@ -8,8 +8,8 @@ class Solution:
             elif i == 10:
                 if not pays[5]:
                     return False
-                else:
-                    pays[5] -= 1
+
+                pays[5] -= 1
                 pays[10] += 1
 
             elif i == 20:
