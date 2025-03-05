@@ -2,16 +2,13 @@ class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
         pairs = {
-            '(': ')',
-            '{': '}',
-            '[': ']'
-        }
+            '(': ')','{': '}','[': ']'}
 
         for i in s:
-            if i in pairs:  # If it's an opening bracket
+            if i in pairs:
                 stack.append(i)
-            else:  # If it's a closing bracket
+            else: 
                 if not stack or pairs[stack.pop()] != i:
                     return False
 
-        return not stack  # True if stack is empty, False otherwise
+        return not stack
