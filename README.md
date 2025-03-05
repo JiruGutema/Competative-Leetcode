@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0179-largest-number) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0232-implement-queue-using-stacks) |
