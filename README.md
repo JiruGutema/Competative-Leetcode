@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1033-broken-calculator](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1009-pancake-sorting](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1033-broken-calculator](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1033-broken-calculator) |
 | [1095-two-city-scheduling](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1095-two-city-scheduling) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
