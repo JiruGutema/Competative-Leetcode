@@ -2,7 +2,6 @@ class Solution:
     def balancedStringSplit(self, s: str) -> int:
         count = 0
         i = 0
-
         L = 0
         R = 0
 
