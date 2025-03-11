@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0858-masking-personal-information) |
 | [0878-shifting-letters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0878-shifting-letters) |
+| [0886-score-of-parentheses](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1044-find-common-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1044-find-common-characters) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0445-add-two-numbers-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0886-score-of-parentheses](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1582-design-browser-history) |
