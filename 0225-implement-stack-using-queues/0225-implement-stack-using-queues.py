@@ -7,9 +7,7 @@ class MyStack:
         self.q1.append(x)
 
     def pop(self) -> int:
-        if self.empty():
-            raise IndexError("Pop from an empty stack")
-        
+    
         while len(self.q1) > 1:
             self.q2.append(self.q1.popleft())
         
@@ -20,9 +18,7 @@ class MyStack:
         return top
 
     def top(self) -> int:
-        if self.empty():
-            raise IndexError("Top from an empty stack")
-        
+
         while len(self.q1) > 1:
             self.q2.append(self.q1.popleft())
         
