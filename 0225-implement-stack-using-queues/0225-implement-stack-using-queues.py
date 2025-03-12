@@ -1,5 +1,3 @@
-
-
 class MyStack:
     def __init__(self):
         self.q1 = deque()
@@ -17,7 +15,7 @@ class MyStack:
         
         top = self.q1.popleft()
         
-        # Swap the roles of q1 and q2
+     
         self.q1, self.q2 = self.q2, self.q1
         return top
 
