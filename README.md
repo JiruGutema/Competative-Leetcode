@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
