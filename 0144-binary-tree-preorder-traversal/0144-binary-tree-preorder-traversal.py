@@ -9,19 +9,28 @@ class Solution:
         self.ans = []
         
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        result = []
+        # if not root:
+        #     return []
         
-        if not root:
-            return []
+        # self.ans.append(root.val)
+        # if root.left:
+        #     self.preorderTraversal(root.left)
+
+        # if root.right:
+        #     self.preorderTraversal(root.right)
+
+        # return self.ans
+
+        def helper(root):
+            if root:
+                result.append(root.val)
+                helper(root.left)
+                helper(root.right)
+            return result
+        return helper(root)
         
-        self.ans.append(root.val)
-        if root.left:
-            self.preorderTraversal(root.left)
-
-        if root.right:
-            self.preorderTraversal(root.right)
-
-        return self.ans
-
+        
 
         
 
