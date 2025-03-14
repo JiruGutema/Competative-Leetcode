@@ -5,9 +5,6 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def __init__(self):
-        self.ans = []
-        
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         result = []
         # if not root:
