@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0445-add-two-numbers-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0456-132-pattern) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0886-score-of-parentheses](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0388-longest-absolute-file-path](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0388-longest-absolute-file-path) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
