@@ -10,17 +10,17 @@ class MyQueue:
     def pop(self) -> int:
         if not self.s2:
             while self.s1:
-                # removing the value at the top of the stack
+               
                 self.s2.append(self.s1.pop())
-        # return that value
+       
         return self.s2.pop()
 
     def peek(self) -> int:
         if not self.s2:
             while self.s1:
-                # removing the value at the top of the stack
+               
                 self.s2.append(self.s1.pop())
-        # return the value at the top of s2
+       
         return self.s2[-1]
 
     def empty(self) -> bool:
