@@ -10,10 +10,12 @@ class Solution:
                 return
             
             for i in range(len(nums)):
-                if nums[i] not in path:
+                if nums[i] not in seen:
                     path.append(nums[i])
+                    seen.add(nums[i])
                     backtrack(i+1)
                     path.pop()
+                    seen.remove(nums[i])
 
 
 
