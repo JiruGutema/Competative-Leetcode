@@ -1,10 +1,11 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        ans, path = [],[]
+        res, path = [], []
+        n = len(nums)
 
         def backtrack(idx):
-            if idx == len(nums):
-                ans.append(path[:])
+            if idx == n:
+                res.append(path[:])
                 return
             path.append(nums[idx])
             backtrack(idx+1)
@@ -12,5 +13,5 @@ class Solution:
             backtrack(idx+1)
 
         backtrack(0)
-        
-        return ans
+
+        return res
