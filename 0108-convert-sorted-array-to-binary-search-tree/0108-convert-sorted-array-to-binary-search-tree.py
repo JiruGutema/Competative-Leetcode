@@ -12,8 +12,7 @@ class Solution:
 
         mid = len(arr) // 2
         root = TreeNode(arr[mid])
-
-        root.left = self.sortedArrayToBST(arr[:mid])  
-        root.right = self.sortedArrayToBST(arr[mid+1:])  
+        root.left = self.sortedArrayToBST(arr[:mid])
+        root.right = self.sortedArrayToBST(arr[mid+1:]) 
 
         return root
