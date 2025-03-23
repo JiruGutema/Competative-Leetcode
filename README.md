@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1033-broken-calculator) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1095-two-city-scheduling](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1095-two-city-scheduling) |
+| [1285-balance-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0948-sort-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## String
 |  |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0388-longest-absolute-file-path](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Bucket Sort
 |  |
@@ -746,4 +751,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
