@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0101-symmetric-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0388-longest-absolute-file-path](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0388-longest-absolute-file-path) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0450-delete-node-in-a-bst) |
