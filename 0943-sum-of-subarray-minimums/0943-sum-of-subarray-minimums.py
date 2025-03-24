@@ -20,3 +20,26 @@ class Solution:
      
         return sum(arr[i] * left[i] * right[i] for i in range(n)) % MOD
 
+
+
+# class Solution:
+#     def sumSubarrayMins(self, arr: List[int]) -> int:
+#         res = []
+#         path = []
+
+#         def backtrack(start, end):
+#             if end > len(arr):
+#                 return
+#             res.append(arr[start:end])
+#             backtrack(start, end+1)
+
+#         for i in range(len(arr)):
+#             backtrack(i, i+1)
+
+
+#         for i in res:
+#             path.append(min(i))
+#         tot = 0
+#         for i in path:
+#             tot += i
+#         return tot           
