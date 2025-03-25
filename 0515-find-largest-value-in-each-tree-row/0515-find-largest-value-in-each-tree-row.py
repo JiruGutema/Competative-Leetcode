@@ -13,5 +13,4 @@ class Solution:
             find_maximum(node.right, level + 1)
 
         find_maximum(root, 0)
-
-        return [idx_max[i] for i in sorted(idx_max.keys())]
+        return [i for i in (idx_max.values())]
