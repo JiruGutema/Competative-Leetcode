@@ -1,23 +1,22 @@
-from typing import Optional
-
+# Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
         if not root:
             return True
-        
-        def isMirror(t1, t2):
-            if not t1 and not t2:
+
+        def check(root1, root2):
+            if not root1 and not root2:
                 return True
-            if not t1 or not t2:
+            if not root1 or not root2:
                 return False
-            if t1.val != t2.val:
+            
+            if root1.val != root2.val:
                 return False
-            return isMirror(t1.left, t2.right) and isMirror(t1.right, t2.left)
-        
-        return isMirror(root.left, root.right)
+            return check(root1.right, root2.left) and check(root1.left, root2.right)
+        return check(root, root)
+            
