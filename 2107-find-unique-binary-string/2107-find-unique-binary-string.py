@@ -4,7 +4,7 @@ class Solution:
 
         def backtrack(n):
             if n == len(nums) and len(path) == len(nums):
-                ans.append(path[:])
+                ans.append("".join(path[:]))
                 return
             elif n == len(nums):
                 return
@@ -16,9 +16,6 @@ class Solution:
             backtrack(n+1)
             path.pop()
         backtrack(0)
-
-        for i in range(len(ans)):
-            ans[i] = "".join(ans[i])
 
 
         return list(set(ans)^set(nums))[0]
