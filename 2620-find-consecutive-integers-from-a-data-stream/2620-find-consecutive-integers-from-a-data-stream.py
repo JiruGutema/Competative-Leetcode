@@ -1,5 +1,3 @@
-from collections import deque
-
 class DataStream:
     def __init__(self, value: int, k: int):
         self.value = value
