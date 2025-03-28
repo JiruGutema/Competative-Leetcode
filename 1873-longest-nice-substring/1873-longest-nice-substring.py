@@ -2,7 +2,7 @@ class Solution:
     def longestNiceSubstring(self, s: str) -> str:
         if not s:
             return s
-
+        
         def check(s, char):
             if char.islower():
                 return char.upper() in s
