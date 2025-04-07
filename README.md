@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0078-subsets) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0661-image-smoother) |
