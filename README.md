@@ -857,4 +857,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0547-number-of-provinces) |
+| [3189-find-champion-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
