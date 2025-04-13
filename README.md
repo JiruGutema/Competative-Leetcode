@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0816-design-hashset) |
 | [0829-subdomain-visit-count](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0829-subdomain-visit-count) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0547-number-of-provinces) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0547-number-of-provinces) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -729,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
