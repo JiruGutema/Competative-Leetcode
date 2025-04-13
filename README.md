@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0342-power-of-four) |
+| [2050-count-good-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
