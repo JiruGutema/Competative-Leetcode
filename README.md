@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1095-two-city-scheduling](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1095-two-city-scheduling) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0547-number-of-provinces) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0898-transpose-matrix) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2145-grid-game](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2145-grid-game) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
