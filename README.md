@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2690-house-robber-iv) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3151-minimum-processing-time](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3151-minimum-processing-time) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1873-longest-nice-substring](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1873-longest-nice-substring) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
