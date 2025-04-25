@@ -1,17 +1,15 @@
 class Solution:
     def findDiagonalOrder(self, mat: list[list[int]]) -> list[int]:
-        if not mat or not mat[0]:
+        if not mat:
             return []
 
-        n = len(mat)       
-        m = len(mat[0]) 
-
-        ans = []
+        n, m = len(mat), len(mat[0])
+        result = []
         i, j = 0, 0
         up = True
 
-        while len(ans) < n * m:
-            ans.append(mat[i][j])
+        while len(result) < m * n:
+            result.append(mat[i][j])
             if up:
                 if j == m - 1:
                     i += 1
@@ -33,4 +31,4 @@ class Solution:
                     i += 1
                     j -= 1
 
-        return ans
+        return result
