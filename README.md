@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0948-sort-an-array) |
