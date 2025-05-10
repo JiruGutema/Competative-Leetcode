@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1095-two-city-scheduling](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1095-two-city-scheduling) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1127-last-stone-weight](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1217-relative-sort-array) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1184-car-pooling) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
