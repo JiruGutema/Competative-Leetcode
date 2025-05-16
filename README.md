@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0464-can-i-win](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0464-can-i-win) |
 | [0523-continuous-subarray-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0264-ugly-number-ii) |
+| [0464-can-i-win](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0464-can-i-win) |
 | [0943-sum-of-subarray-minimums](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0464-can-i-win](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0464-can-i-win) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0464-can-i-win) |
 ## Matrix
 |  |
 | ------- |
@@ -867,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0464-can-i-win) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Radix Sort
 |  |
@@ -933,4 +938,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
