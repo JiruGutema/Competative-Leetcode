@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-minimum-processing-time](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3151-minimum-processing-time) |
 | [3195-separate-black-and-white-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3151-minimum-processing-time](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3151-minimum-processing-time) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Stack
 |  |
 | ------- |
