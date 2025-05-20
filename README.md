@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2690-house-robber-iv) |
+| [3643-zero-array-transformation-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Array
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3639-zero-array-transformation-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3651-transformed-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-number-of-ways-to-select-buildings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2465-shifting-letters-ii) |
 | [3639-zero-array-transformation-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Design
 |  |
