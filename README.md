@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0684-redundant-connection) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0684-redundant-connection) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
