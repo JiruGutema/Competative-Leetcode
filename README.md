@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0388-longest-absolute-file-path](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0388-longest-absolute-file-path) |
+| [0513-find-bottom-left-tree-value](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0563-binary-tree-tilt) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0210-course-schedule-ii) |
+| [0513-find-bottom-left-tree-value](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0547-number-of-provinces) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
