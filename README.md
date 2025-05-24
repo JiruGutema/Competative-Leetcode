@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2690-house-robber-iv) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3151-minimum-processing-time](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3151-minimum-processing-time) |
+| [3194-find-words-containing-character](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3194-find-words-containing-character) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3639-zero-array-transformation-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3194-find-words-containing-character](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
