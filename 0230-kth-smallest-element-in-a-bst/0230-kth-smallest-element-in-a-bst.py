@@ -6,10 +6,12 @@
 #         self.right = right
 class Solution(object):
     def kthSmallest(self, root, k):
-        def inorder_traversal(node):
+        vals = []
+        def dfs(node):
             if not node:
-                return []
-            return inorder_traversal(node.left) + [node.val] + inorder_traversal(node.right)
-
-        sorted_elements = inorder_traversal(root)
-        return sorted_elements[k - 1]
+                return
+            dfs(node.left)
+            vals.append(node.val)
+            dfs(node.right)
+        dfs(root)
+        return vals[k-1]
