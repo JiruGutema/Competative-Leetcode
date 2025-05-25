@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3321-type-of-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3151-minimum-processing-time](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3151-minimum-processing-time) |
 | [3194-find-words-containing-character](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3194-find-words-containing-character) |
+| [3321-type-of-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3639-zero-array-transformation-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3151-minimum-processing-time](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3151-minimum-processing-time) |
+| [3321-type-of-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting Sort
