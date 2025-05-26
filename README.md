@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1873-longest-nice-substring) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0464-can-i-win) |
 | [0943-sum-of-subarray-minimums](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0070-climbing-stairs) |
 | [0464-can-i-win](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0464-can-i-win) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -983,12 +987,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0684-redundant-connection) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3189-find-champion-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0210-course-schedule-ii) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Geometry
 |  |
 | ------- |
