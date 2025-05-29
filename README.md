@@ -725,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0922-possible-bipartition](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0922-possible-bipartition) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0922-possible-bipartition](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0922-possible-bipartition) |
 | [0955-complete-binary-tree-inserter](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -993,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0684-redundant-connection) |
+| [0922-possible-bipartition](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0922-possible-bipartition) |
 ## Graph
 |  |
 | ------- |
@@ -1000,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0684-redundant-connection) |
+| [0922-possible-bipartition](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0922-possible-bipartition) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3189-find-champion-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3189-find-champion-ii) |
 ## Topological Sort
