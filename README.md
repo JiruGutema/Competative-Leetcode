@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1449-print-words-vertically](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1449-print-words-vertically) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0955-complete-binary-tree-inserter](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0684-redundant-connection) |
 | [0922-possible-bipartition](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0922-possible-bipartition) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3189-find-champion-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3189-find-champion-ii) |
