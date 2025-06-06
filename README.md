@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3151-minimum-processing-time](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3151-minimum-processing-time) |
 | [3195-separate-black-and-white-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2502-sort-the-people) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2502-sort-the-people) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
