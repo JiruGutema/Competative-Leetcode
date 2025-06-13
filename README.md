@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2690-house-robber-iv) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Array
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2690-house-robber-iv) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3151-minimum-processing-time](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3151-minimum-processing-time) |
 | [3194-find-words-containing-character](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3194-find-words-containing-character) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3151-minimum-processing-time](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3151-minimum-processing-time) |
 | [3195-separate-black-and-white-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3195-separate-black-and-white-balls) |
