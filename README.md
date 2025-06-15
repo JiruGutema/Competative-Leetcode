@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1304-longest-happy-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1961-maximum-ice-cream-bars) |
