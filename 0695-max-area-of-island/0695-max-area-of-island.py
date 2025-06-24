@@ -10,10 +10,11 @@ class Solution:
                 or c < 0
                 or c == cols
                 or grid[r][c] == 0
-                or (r, c) in visit
+                # or (r, c) in visit
             ):
                 return 0
-            visit.add((r, c))
+            # visit.add((r, c))
+            grid[r][c] = 0
             return (
                 1
                 + dfs(r + 1, c)
@@ -25,6 +26,6 @@ class Solution:
         area = 0
         for r in range(rows):
             for c in range(cols):
-                if grid[r][c] == 1 and (r, c) not in visit:
+                if grid[r][c] == 1: # and (r, c) not in visit:
                     area = max(area, dfs(r, c))
         return area
