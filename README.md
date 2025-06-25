@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2690-house-robber-iv) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
