@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Two Pointers
 |  |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3651-transformed-array) |
 ## Dynamic Programming
 |  |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -963,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Function
 |  |
 | ------- |
