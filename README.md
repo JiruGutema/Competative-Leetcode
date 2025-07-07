@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0210-course-schedule-ii) |
+| [0365-water-and-jug-problem](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
