@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1582-design-browser-history) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
