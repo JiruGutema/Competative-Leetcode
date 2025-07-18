@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1449-print-words-vertically) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1028,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2145-grid-game](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2145-grid-game) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -1123,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0695-max-area-of-island) |
 | [0922-possible-bipartition](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0922-possible-bipartition) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
