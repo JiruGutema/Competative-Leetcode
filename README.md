@@ -814,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1127,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0695-max-area-of-island) |
 | [0922-possible-bipartition](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0922-possible-bipartition) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -1137,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0684-redundant-connection) |
 | [0922-possible-bipartition](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0922-possible-bipartition) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3189-find-champion-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3189-find-champion-ii) |
