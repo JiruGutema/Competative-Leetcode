@@ -3,33 +3,35 @@ class Twitter:
     def __init__(self):
         self.timestamp = 0
         self.tweets = defaultdict(list)
-        self.following = defaultdict(set)
-
+        self.followers = defaultdict(set)
 
     def postTweet(self, userId: int, tweetId: int) -> None:
         self.timestamp += 1
         self.tweets[userId].append((self.timestamp, tweetId))
-        
 
+        
     def getNewsFeed(self, userId: int) -> List[int]:
         max_heap = []
-        users = self.following[userId]
+        users = self.followers[userId]
         users.add(userId)
+
 
         for user in users:
             for timestamp, tweetId in self.tweets[user][-10:]:
                 heapq.heappush(max_heap, (-timestamp, tweetId))
+        
         feed = []
+
         while max_heap and len(feed) < 10:
             feed.append(heapq.heappop(max_heap)[1])
         return feed
-        
 
     def follow(self, followerId: int, followeeId: int) -> None:
-        self.following[followerId].add(followeeId)
+        self.followers[followerId].add(followeeId)
 
     def unfollow(self, followerId: int, followeeId: int) -> None:
-        self.following[followerId].discard(followeeId)
+        self.followers[followerId].discard(followeeId)
+      
         
 
 
