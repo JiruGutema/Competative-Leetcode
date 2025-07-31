@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3639-zero-array-transformation-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting Sort
 |  |
