@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0076-minimum-window-substring) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0898-transpose-matrix) |
 | [1184-car-pooling](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1184-car-pooling) |
@@ -989,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0190-reverse-bits) |
