@@ -1,8 +1,9 @@
 class Solution:
     def hammingDistance(self, x: int, y: int) -> int:
-        a = x ^ y
-        res = 0
-        for i in range(32):
-            if (a & (1<<i)) != 0:
-                res += 1
-        return res
+        # a = x ^ y
+        # res = 0
+        # for i in range(32):
+        #     if (a & (1<<i)) != 0:
+        #         res += 1
+        # return res
+        return (x ^ y).bit_count()
