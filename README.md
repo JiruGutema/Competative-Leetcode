@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0464-can-i-win) |
 | [0523-continuous-subarray-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0679-24-game](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0661-image-smoother) |
+| [0679-24-game](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0695-max-area-of-island) |
 | [0722-remove-comments](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0724-find-pivot-index) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0113-path-sum-ii) |
+| [0679-24-game](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
