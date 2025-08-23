@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3639-zero-array-transformation-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -1076,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -1155,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/JiruGutema/Competative-Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
