@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0464-can-i-win](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0464-can-i-win) |
@@ -1053,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0679-24-game](https://github.com/JiruGutema/Competative-Leetcode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JiruGutema/Competative-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/JiruGutema/Competative-Leetcode/tree/master/2107-find-unique-binary-string) |
